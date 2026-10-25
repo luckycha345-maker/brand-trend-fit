@@ -25,6 +25,10 @@
 - 宠物出行包＋带狗自驾 → 外出携行；仅销售宠物食品不足以通过。
 - 桌面收纳产品＋书桌布置 → 整理桌面物品；不能只凭“居家”匹配其他家居产品。
 
+## 服务定价
+
+公开skill指令免费；拟议独立托管服务为Starter **$19/月**、Pro **$49/月**。**尚未开放付款或承诺实时监控交付**，范围和上线条件见[PRICING.md](PRICING.md)。
+
 ## 使用
 
 把本仓库文件夹以 `brand-trend-fit` 名称放入 agent 的 skills 目录，确保 `SKILL.md` 位于该文件夹根目录。对于 Codex，目录通常为 `~/.codex/skills/brand-trend-fit/`。如果环境已有 GitHub skill 安装器，也可提供本仓库 URL 安装。
