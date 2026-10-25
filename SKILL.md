@@ -21,6 +21,10 @@ Combine verified regional charts and category-filtered charts when available. Pr
 
 Search results, popular posts, news headlines, provider-generated topic clusters and Google Trends relative indexes are supplemental evidence, not platform keyword ranks. Keep their ordinal null. If source or rank provenance is uncertain, say so and withhold it from verified-ranked recommendations. Do not substitute one platform's chart for another.
 
+## Fast-moving events
+
+When the user needs breaking stories or emerging local topics rather than periodic charts, read [event discovery](references/event-discovery.md). Use available authorized timely sources, identify the entity/location and event time, deduplicate old stories, and verify the product connection. A short polling interval is not a guarantee of discovery latency. This skill supplies the workflow, not a running monitor or an authorization to start scheduled/paid jobs.
+
 ## Decide product relevance before scoring
 
 For each candidate, establish a short chain:
