@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Trend Fit"
+  short_description: "Match real trends to supported product needs"
+  default_prompt: "Use $brand-trend-fit to filter verified trend keywords against my product capabilities and explain each recommendation."
